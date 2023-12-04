@@ -51,6 +51,7 @@ type CardContext = {
 
 export const CardContext = createContext<CardContext>({
   state: [],
+  //@ts-ignore
   dispatch: (...args: any[]) => {},
 });
 
