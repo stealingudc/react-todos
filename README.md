@@ -1,5 +1,7 @@
 # react-todos
 
+https://stealingudc.github.io/react-todos/
+
 A simple Todo app made in React. Made with [shadcn-ui](https://ui.shadcn.com/).
 
 ## Build
